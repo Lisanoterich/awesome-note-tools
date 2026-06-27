@@ -6,6 +6,9 @@
 [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Lisanoterich/awesome-note-tools/pulls)
 
 
+[English](README.md) | [中文](README.zh-CN.md)
+
+
 > A curated directory of note-taking tools organized by functionality.
 > Deeply researched. Every entry verified. Updated June 2026.
 
