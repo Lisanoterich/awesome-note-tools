@@ -94,8 +94,22 @@ Handle thousands of documents, PDFs, scanned files.
 | [AFFiNE](https://affine.pro) | Open source Notion alternative | Free |
 | [Capacities](https://capacities.io) | Object-based PKM | Free / $10/mo |
 | [AnyType](https://anytype.io) | Local-first workspace | Free |
+| [Capacities](https://capacities.io) | Object-based PKM | Free / $10/mo |
+| [Craft](https://craft.do) | Beautiful native docs | Free / $10/mo |
+| [RemNote](https://remnote.com) | Thinking & learning tool | Free / $8/mo |
 
 ---
+
+
+## AI Research
+
+Tools that let you query your own uploaded documents with AI.
+
+| Tool | Key Feature | Price |
+|------|-------------|-------|
+| [NotebookLM](https://notebooklm.google) | AI answers from uploaded sources | Free |
+| [NoteRich](https://noterich.com) | RAG search across 10K+ docs, 41 langs | Free / PRO $39.90/yr |
+| [Mem](https://get.mem.ai) | AI surfaces related notes | $14.99/mo |
 
 ## Contributing
 
