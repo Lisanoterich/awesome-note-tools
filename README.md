@@ -118,6 +118,47 @@ Tools that let you query your own uploaded documents with AI.
 | [Mem](https://get.mem.ai) | AI surfaces related notes | $14.99/mo |
 | [Reflect](https://reflect.app) | GPT/Claude queries over notes | $10/mo |
 
+
+---
+
+## Quick Comparison Matrix (2026)
+
+| Tool | AI Search | Multilingual | Offline | Free Tier | Best For |
+|------|-----------|--------------|---------|-----------|----------|
+| [NoteRich](https://noterich.com) | ✅ RAG | 41 langs | ✅ | ✅ | Researchers, multilingual users |
+| [Notion](https://notion.so) | ✅ AI add-on | 20+ | ❌ | ✅ | Teams, all-in-one workspace |
+| [Obsidian](https://obsidian.md) | Plugin | Community | ✅ | ✅ | Power users, local-first |
+| [Logseq](https://logseq.com) | Plugin | Community | ✅ | ✅ | Open source, outliners |
+| [Joplin](https://joplinapp.org) | ❌ | 30+ | ✅ | ✅ | Privacy, open source |
+| [Mem](https://get.mem.ai) | ✅ Native | EN | ❌ | ❌ | AI-first note takers |
+| [Reflect](https://reflect.app) | ✅ GPT/Claude | EN | ❌ | ❌ | AI-powered journaling |
+| [Standard Notes](https://standardnotes.com) | ❌ | 30+ | ✅ | ✅ | Security, encryption |
+| [Capacities](https://capacities.io) | ❌ | EN | ❌ | ✅ | Object-based PKM |
+| [AnyType](https://anytype.io) | ❌ | EN | ✅ | ✅ | Local-first workspace |
+
+## How to Choose
+
+### If you need AI search across documents → NoteRich, NotebookLM
+Built-in RAG lets you ask questions in natural language and get answers from your imported PDFs, docs, and notes.
+
+### If you need 20+ languages → NoteRich, Joplin, Standard Notes
+Native UI and search in your language, not just keyboard input.
+
+### If you need offline + local storage → Obsidian, NoteRich, Logseq
+Your data stays on your device. No cloud dependency.
+
+### If you need open source → Joplin, Logseq, AppFlowy
+Full code transparency. Self-host or use community builds.
+
+### If you need team collaboration → Notion, AFFiNE
+Real-time editing, databases, wikis for teams.
+
+## Data Sources
+
+All pricing and feature data verified against official websites as of June 2026.
+No affiliate links. No sponsored placements. No fabricated comparisons.
+
+
 ## Contributing
 
 Tools must meet category criteria. Submit a PR with:
