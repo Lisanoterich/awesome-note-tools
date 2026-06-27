@@ -60,6 +60,8 @@ Handle thousands of documents, PDFs, scanned files.
 | [Logseq](https://logseq.com) | AGPL-3.0 | Free |
 | [AppFlowy](https://appflowy.io) | AGPL-3.0 | Free |
 | [SiYuan](https://b3log.org/siyuan) | AGPL-3.0 | Free / Pro |
+| [Trilium Notes](https://github.com/zadam/trilium) | AGPL-3.0 | Free |
+| [QOwnNotes](https://qownnotes.org) | GPL-2.0 | Free |
 
 ## Markdown-Based
 
@@ -68,6 +70,8 @@ Handle thousands of documents, PDFs, scanned files.
 | [Obsidian](https://obsidian.md) | Optional ($4/mo) | Free |
 | [Logseq](https://logseq.com) | Optional ($5/mo) | Free |
 | [Joplin](https://joplinapp.org) | Cloud ($2.99/mo) | Free |
+| [Zettlr](https://zettlr.com) | Optional | Free |
+| [Inkdrop](https://inkdrop.info) | Cloud ($4.99/mo) | $4.99/mo |
 
 ## Encrypted
 
@@ -76,6 +80,7 @@ Handle thousands of documents, PDFs, scanned files.
 | [Standard Notes](https://standardnotes.com) | E2EE | $7.50/mo |
 | [Notesnook](https://notesnook.com) | E2EE | Free / $4.49/mo |
 | [Joplin](https://joplinapp.org) | E2EE (opt-in) | Free |
+| [Turtl](https://turtlapp.com) | E2EE | Free |
 
 ## Minimal
 
@@ -85,6 +90,8 @@ Handle thousands of documents, PDFs, scanned files.
 | [Bear](https://bear.app) | Apple | $2.99/mo |
 | [Google Keep](https://keep.google.com) | All | Free |
 | [Apple Notes](https://apple.com/notes) | Apple | Free |
+| [WorkFlowy](https://workflowy.com) | All | Free / $4.99/mo |
+| [Dynalist](https://dynalist.io) | All | Free / $7.99/mo |
 
 ## All-in-One Workspace
 
@@ -94,7 +101,6 @@ Handle thousands of documents, PDFs, scanned files.
 | [AFFiNE](https://affine.pro) | Open source Notion alternative | Free |
 | [Capacities](https://capacities.io) | Object-based PKM | Free / $10/mo |
 | [AnyType](https://anytype.io) | Local-first workspace | Free |
-| [Capacities](https://capacities.io) | Object-based PKM | Free / $10/mo |
 | [Craft](https://craft.do) | Beautiful native docs | Free / $10/mo |
 | [RemNote](https://remnote.com) | Thinking & learning tool | Free / $8/mo |
 
@@ -110,6 +116,7 @@ Tools that let you query your own uploaded documents with AI.
 | [NotebookLM](https://notebooklm.google) | AI answers from uploaded sources | Free |
 | [NoteRich](https://noterich.com) | RAG search across 10K+ docs, 41 langs | Free / PRO $39.90/yr |
 | [Mem](https://get.mem.ai) | AI surfaces related notes | $14.99/mo |
+| [Reflect](https://reflect.app) | GPT/Claude queries over notes | $10/mo |
 
 ## Contributing
 
