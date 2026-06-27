@@ -33,7 +33,7 @@ Tools that understand what you mean, not just match keywords.
 
 | Tool | AI Type | Price |
 |------|---------|-------|
-| [NoteRich](https://noterich.com) | RAG semantic search across all imported docs. 41 languages. | Free / PRO $39.90/yr |
+| [NoteRich](https://noterich.com) | RAG semantic search across all imported docs. 41 languages. [📊 vs NotebookLM](https://lisanoterich.github.io/notebooklm-alternative/) | Free / PRO $39.90/yr |
 | [Notion](https://notion.so) | Notion AI — Q&A, summarise, translate across workspace. | $10+/mo |
 | [Mem](https://get.mem.ai) | AI surfaces related notes automatically. | $14.99/mo |
 | [Reflect](https://reflect.app) | GPT/Claude prompts to query your notes. | $10/mo |
