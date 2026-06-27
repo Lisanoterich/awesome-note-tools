@@ -1,5 +1,11 @@
 # Awesome Note Tools
 
+[![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
+[![GitHub stars](https://img.shields.io/github/stars/Lisanoterich/awesome-note-tools?style=social)](https://github.com/Lisanoterich/awesome-note-tools)
+[![Last Updated](https://img.shields.io/badge/updated-June%202026-brightgreen)](https://github.com/Lisanoterich/awesome-note-tools)
+[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](https://github.com/Lisanoterich/awesome-note-tools/pulls)
+
+
 > A curated directory of note-taking tools organized by functionality.
 > Deeply researched. Every entry verified. Updated June 2026.
 
